@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "b02",
+    "title": "Cannot delete a Car",
+    "severity": 2,
+    "description": "description of the bug",
+    "createdAt": 1542107359454
+  },
+  {
+    "_id": "b03",
+    "title": "Cannot update a Car",
+    "severity": 3,
+    "description": "description of the bug",
+    "createdAt": 1542107359454
+  },
+  {
+    "_id": "b04",
+    "title": "Cannot remove a Car",
+    "severity": 3,
+    "description": "description of the bug",
+    "createdAt": 1542107359454
+  },
+  {
+    "_id": "ezCqbl",
+    "title": "Add car twice",
+    "severity": 3,
+    "description": "description of the bug",
+    "createdAt": "undefined"
+  },
+  {
+    "_id": "G6y03e",
+    "title": "title 2",
+    "severity": 3,
+    "createdAt": "undefined"
+  },
+  {
+    "_id": "zIg0ho",
+    "title": "bug title",
+    "severity": 2,
+    "createdAt": "undefined"
+  },
+  {
+    "_id": "u8VvLL",
+    "title": "'םרמןמע",
+    "severity": 4,
+    "createdAt": 1707242876043
+  }
+]
