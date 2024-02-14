@@ -4,45 +4,122 @@
     "title": "Cannot delete a Car",
     "severity": 2,
     "description": "description of the bug",
-    "createdAt": 1542107359454
-  },
-  {
-    "_id": "b03",
-    "title": "Cannot update a Car",
-    "severity": 3,
-    "description": "description of the bug",
-    "createdAt": 1542107359454
+    "createdAt": 1542107359454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
   },
   {
     "_id": "b04",
     "title": "Cannot remove a Car",
-    "severity": 3,
-    "description": "description of the bug",
-    "createdAt": 1542107359454
+    "severity": 1,
+    "description": "description of the bug"
   },
   {
     "_id": "ezCqbl",
     "title": "Add car twice",
     "severity": 3,
     "description": "description of the bug",
-    "createdAt": "undefined"
+    "createdAt": 1542107359454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
   },
   {
     "_id": "G6y03e",
     "title": "title 2",
     "severity": 3,
-    "createdAt": "undefined"
+    "createdAt": 1542107359454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
   },
   {
     "_id": "zIg0ho",
     "title": "bug title",
     "severity": 2,
-    "createdAt": "undefined"
+    "createdAt": 1542107359454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
   },
   {
-    "_id": "u8VvLL",
-    "title": "'םרמןמע",
-    "severity": 4,
-    "createdAt": 1707242876043
+    "title": "new title",
+    "severity": 1,
+    "description": "new description",
+    "_id": "rMCaN"
+  },
+  {
+    "title": "new title",
+    "severity": 1,
+    "description": "new description",
+    "_id": "gyB3v",
+    "createdAt": 1707764564937
+  },
+  {
+    "title": "new title 3",
+    "severity": 1,
+    "description": "new description",
+    "_id": "BKUwD",
+    "createdAt": 1707767206780
+  },
+  {
+    "title": "new title 3",
+    "severity": 1,
+    "description": "new description",
+    "_id": "WJjqm",
+    "createdAt": 1707767208452
+  },
+  {
+    "title": "new title 3",
+    "severity": 1,
+    "description": "new description",
+    "_id": "2g2j4",
+    "createdAt": 1707767226301
+  },
+  {
+    "title": "new title 3",
+    "severity": 1,
+    "description": "new description",
+    "_id": "7BHCy",
+    "createdAt": 1707767237983
+  },
+  {
+    "title": "new title 3",
+    "severity": 1,
+    "description": "new description",
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ],
+    "_id": "oa5Oi",
+    "createdAt": 1707767332271
+  },
+  {
+    "title": "new title 3",
+    "severity": 1,
+    "description": "new description",
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ],
+    "_id": "DgNlL",
+    "createdAt": 1707767360704
+  },
+  {
+    "_id": "QFkRd",
+    "title": "new title 3",
+    "severity": 6,
+    "description": "new description"
   }
 ]
